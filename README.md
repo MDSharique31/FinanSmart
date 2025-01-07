@@ -48,7 +48,7 @@ experience.
 
 👉 **Budget Management**: Enables users to manage their budgets effectively.
 
-👉 **Personalized Financial Advice**: Provides detailed financial advice based on user-specific financial data using OpenAI's GPT-4 model.
+👉 **Personalized Financial Advice**: Provides detailed financial advice based on user-specific financial data using OpenAI's GPT-4 / 3.5  model.
 
 👉 **Responsive Design**: Ensures a seamless experience across different devices.
 
@@ -109,8 +109,7 @@ Open [http://localhost:3003](http://localhost:3003) in your browser to view the 
 
 ## <a name="snippets">🕸️ Assets & Code</a>
 
-The repository includes all the assets and code you need to get started with FinanSmart. Follow along with our YouTube tutorial for a step-by-step guide.
-
+The repository includes all the assets and code you need to get started with FinanSmart. 
 
 
  
